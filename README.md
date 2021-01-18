@@ -1,6 +1,7 @@
 ### Hi there 👋 My name is Goodness Ezeokafor, a software developer in Nigeria. I'm proficient in Python, Django, Nodejs, Reactjs and Flutter.
 ### I love musics and I occasionally play the guitar🎸🎸
 ### I love reading books on businesses, startups, investing and politics
+### I'm also a blockchain and cryptocurrency enthusiast
 
 
 ### Projects &#128187; &#128187;
@@ -11,6 +12,25 @@
 - https://uni-vote.herokuapp.com - a decentralized voting platform on the ethereum blockchain
 
 - I'm currently working on my personal AI assistant 
+
+### Interests &#129437; &#129437;
+
+- Programming
+
+- Software Engineering
+
+- Blockchain/Cryptocurrencies/Defi
+
+- ML/DL/AI
+
+- Robotics
+
+- Startups
+
+- Politics
+
+- Investing
+
 <!--
 **GoodnessEzeokafor/GoodnessEzeokafor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
