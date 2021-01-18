@@ -11,7 +11,7 @@
 
 - https://uni-vote.herokuapp.com - a decentralized voting platform on the ethereum blockchain
 
-- I'm currently working on my personal AI assistant 
+- I'm currently working on my personal AI assistant called Henritta
 
 ### Interests &#129437; &#129437;
 
