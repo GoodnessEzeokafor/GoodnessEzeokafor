@@ -10,7 +10,7 @@
 
 - https://uni-vote.herokuapp.com - a decentralized voting platform on the ethereum blockchain
 
-- I'm currently working on my own AI assistant called 
+- I'm currently working on my personal AI assistant 
 <!--
 **GoodnessEzeokafor/GoodnessEzeokafor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
