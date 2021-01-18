@@ -16,19 +16,12 @@
 ### Interests &#129437; &#129437;
 
 - Programming
-
 - Software Engineering
-
 - Blockchain/Cryptocurrencies/Defi
-
 - ML/DL/AI
-
 - Robotics
-
 - Startups
-
 - Politics
-
 - Investing
 
 <!--
