@@ -15,8 +15,8 @@
 
 ### Interests &#129437; &#129437;
 
-- Programming
-- Software Engineering
+- Programming &#128187; &#128187;
+- Software Engineering &#128187; &#128187;
 - Blockchain/Cryptocurrencies/Defi
 - ML/DL/AI
 - Robotics 🦿
