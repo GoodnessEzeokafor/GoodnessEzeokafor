@@ -19,11 +19,11 @@
 - Software Engineering
 - Blockchain/Cryptocurrencies/Defi
 - ML/DL/AI
-- Robotics
-- Startups
-- Politics
+- Robotics 🦿
+- Business/Startups &#129489;&#127997;&#8205;&#128188;
+- Politics 🇺🇸🐎 🇺🇸🌲🌳 🇺🇸🐘 🖋📝📥  I Voted! 🗳✏️ 
 - Investing
-
+- Music/Film making
 <!--
 **GoodnessEzeokafor/GoodnessEzeokafor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
